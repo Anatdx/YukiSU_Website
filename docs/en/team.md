@@ -22,12 +22,12 @@ const coreMembers = [
   },
   {
     avatar: 'https://github.com/slituix.png',
-    name: 'TypeFlu',
+    name: 'サクシイナ',
     title: 'Core Member',
     links: [
-      { icon: 'github', link: 'https://github.com/slituix' },
+      { icon: 'github', link: 'https://github.com/shiinasaku' },
       { icon: 'x', link: 'https://x.com/typeflu'},
-      { icon: 'telegram', link: 'https://t.me/typeflu'}
+      { icon: 'telegram', link: 'https://t.me/SakuShiina'}
     ]
   },
   {
