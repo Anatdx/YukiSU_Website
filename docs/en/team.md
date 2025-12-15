@@ -21,7 +21,7 @@ const coreMembers = [
     ]
   },
   {
-    avatar: 'https://github.com/slituix.png',
+    avatar: 'https://github.com/shiinasaku.png',
     name: 'サクシイナ',
     title: 'Core Member',
     links: [
