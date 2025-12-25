@@ -1,8 +1,8 @@
 {
-  "name": "sukisu-ultra-docs",
+  "name": "yukisu-docs",
   "author": "Saksham <saksham.mac@icloud.com>",
   "version": "1.2.0",
-  "description": "SukiSU-Ultra Documentation - Next-Generation Android Root Solution",
+  "description": "YukiSU Documentation - Next-Generation Android Root Solution",
   "type": "module",
   "scripts": {
     "dev": "vitepress dev docs --host",
@@ -13,17 +13,17 @@
     "android",
     "root",
     "kernelsu",
-    "sukisu",
+    "yukisu",
     "documentation",
     "vitepress"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/sukisu-ultra/website.git"
+    "url": "https://github.com/yukisu/website.git"
   },
-  "homepage": "https://sukisu.org",
+  "homepage": "https://yukisu.org",
   "bugs": {
-    "url": "https://github.com/sukisu-ultra/website/issues"
+    "url": "https://github.com/yukisu/website/issues"
   },
   "devDependencies": {
     "@types/node": "^25.0.2",

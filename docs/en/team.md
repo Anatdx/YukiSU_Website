@@ -14,7 +14,7 @@ const coreMembers = [
     avatar: 'https://github.com/shirkneko.png',
     name: 'Shirk Neko',
     title: 'Founder & Lead Developer',
-    desc: 'Creator of SukiSU-Ultra',
+    desc: 'Creator of YukiSU',
     links: [
       { icon: 'github', link: 'https://github.com/shirkneko' },
       { icon: 'telegram', link: 'https://t.me/shirkneko'}

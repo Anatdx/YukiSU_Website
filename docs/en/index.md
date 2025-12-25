@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "SukiSU-Ultra"
+title: "YukiSU"
 pageClass: landing-page
 sidebar: false
 outline: false
@@ -10,12 +10,12 @@ aside: false
 <script setup lang="ts">
 const hero = {
   badge: 'The ultimate Android root solution',
-  title: 'SukiSU-Ultra',
+  title: 'YukiSU',
   subtitle: 'Powerful kernel-level root access with uncompromising security',
   description: 'Experience the next generation of Android root management.',
   logo: '/logo.svg',
   primary: { label: 'Get Started', href: '/guide/installation' },
-  secondary: { label: 'View on GitHub', href: 'https://github.com/SukiSU-Ultra/SukiSU-Ultra' },
+  secondary: { label: 'View on GitHub', href: 'https://github.com/Anatdx/YukiSU' },
   metrics: [
     { label: 'Active users', value: '200K+' },
     { label: 'Supported devices', value: '500+' },
@@ -25,7 +25,7 @@ const hero = {
 }
 
 const features = {
-  title: 'Why choose SukiSU-Ultra',
+  title: 'Why choose YukiSU',
   description: 'Built from the ground up with security, performance, and reliability at its core.',
   items: [
     {
@@ -60,7 +60,7 @@ const features = {
     },
     {
       title: 'Frequent updates',
-      body: 'SukiSU-Ultra is being constantly maintained and updated by our contributors',
+      body: 'YukiSU is being constantly maintained and updated by our contributors',
       icon: 'solar:smartphone-update-bold-duotone',
       accent: 'violet'
     }
@@ -78,29 +78,29 @@ const steps = {
   ],
   success: 'Installation complete! Reboot and enjoy.',
   primary: { label: 'Read full documentation' },
-  secondary: { label: 'Download latest release', href: 'https://github.com/SukiSU-Ultra/SukiSU-Ultra/releases' }
+  secondary: { label: 'Download latest release', href: 'https://github.com/Anatdx/YukiSU/releases' }
 }
 
 const footer = {
-  name: 'SukiSU-Ultra',
+  name: 'YukiSU',
   description: 'Next-generation root solution for Android devices. Built with modern architecture, enhanced security, and blazing-fast performance.',
   links: [
     {
       title: 'Resources',
       items: [
         { label: 'Documentation', href: '/guide/' },
-        { label: 'GitHub Repository', href: 'https://github.com/SukiSU-Ultra/SukiSU-Ultra' },
-        { label: 'Downloads', href: 'https://github.com/SukiSU-Ultra/SukiSU-Ultra/releases' },
-        { label: 'Report Issues', href: 'https://github.com/SukiSU-Ultra/SukiSU-Ultra/issues' }
+        { label: 'GitHub Repository', href: 'https://github.com/Anatdx/YukiSU' },
+        { label: 'Downloads', href: 'https://github.com/Anatdx/YukiSU/releases' },
+        { label: 'Report Issues', href: 'https://github.com/Anatdx/YukiSU/issues' }
       ]
     },
     {
       title: 'Community',
       items: [
         { label: 'Telegram Channel', href: 'https://t.me/sukiksu' },
-        { label: 'Discussions', href: 'https://github.com/SukiSU-Ultra/SukiSU-Ultra/discussions' },
-        { label: 'Contributing', href: 'https://github.com/SukiSU-Ultra/SukiSU-Ultra/blob/main/CONTRIBUTING.md' },
-        { label: 'License', href: 'https://github.com/SukiSU-Ultra/SukiSU-Ultra/blob/main/LICENSE' }
+        { label: 'Discussions', href: 'https://github.com/Anatdx/YukiSU/discussions' },
+        { label: 'Contributing', href: 'https://github.com/Anatdx/YukiSU/blob/main/CONTRIBUTING.md' },
+        { label: 'License', href: 'https://github.com/Anatdx/YukiSU/blob/main/LICENSE' }
       ]
     }
   ],

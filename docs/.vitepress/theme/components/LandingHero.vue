@@ -78,7 +78,7 @@ withDefaults(
 const highlightWords = [
   'bun',
   'install',
-  'sukisu',
+  'yukisu',
   'ultra',
   'android',
   'kernel',

@@ -2,7 +2,7 @@ import {defineConfig} from 'vitepress'
 import {groupIconMdPlugin, groupIconVitePlugin} from 'vitepress-plugin-group-icons'
 
 export default defineConfig({
-    title: 'SukiSU-Ultra',
+    title: 'YukiSU',
     // description: 'Next-Generation Android Root Solution - Advanced kernel-based root management for Android devices with KernelSU integration',
 
     lastUpdated: true,
@@ -36,7 +36,7 @@ export default defineConfig({
 
     // Optimized sitemap
     sitemap: {
-        hostname: 'https://sukisu.org',
+        hostname: 'https://yukisu.anatdx.com',
         transformItems(items) {
             return items.filter((item) => !item.url.includes('404'))
                 .map((item) => ({
@@ -51,7 +51,7 @@ export default defineConfig({
 
     // Critical performance transformations
     transformPageData(pageData) {
-        const canonicalUrl = `https://sukisu.org${pageData.relativePath}`
+        const canonicalUrl = `https://yukisu.anatdx.com${pageData.relativePath}`
             .replace(/index\.md$/, '')
             .replace(/\.md$/, '')
 
@@ -71,7 +71,7 @@ export default defineConfig({
         ['link', {rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: ''}],
         ['link', {rel: 'dns-prefetch', href: '//github.com'}],
         ['link', {rel: 'dns-prefetch', href: '//t.me'}],
-        ['link', {rel: 'dns-prefetch', href: '//sukisu.org'}],
+        ['link', {rel: 'dns-prefetch', href: '//yukisu.anatdx.com'}],
 
         // Essential favicon setup - optimized for performance
         ['link', {rel: 'icon', type: 'image/x-icon', href: '/favicon.ico'}],
@@ -92,8 +92,8 @@ export default defineConfig({
 
         // Theme and app configuration
         ['meta', {name: 'theme-color', content: '#64edff'}],
-        ['meta', {name: 'application-name', content: 'SukiSU-Ultra'}],
-        ['meta', {name: 'apple-mobile-web-app-title', content: 'SukiSU-Ultra'}],
+        ['meta', {name: 'application-name', content: 'YukiSU'}],
+        ['meta', {name: 'apple-mobile-web-app-title', content: 'YukiSU'}],
         ['meta', {name: 'apple-mobile-web-app-capable', content: 'yes'}],
         ['meta', {name: 'apple-mobile-web-app-status-bar-style', content: 'default'}],
 
@@ -103,20 +103,20 @@ export default defineConfig({
 
         // Enhanced Open Graph for global sharing
         ['meta', {property: 'og:type', content: 'website'}],
-        ['meta', {property: 'og:site_name', content: 'SukiSU-Ultra'}],
-        ['meta', {property: 'og:image', content: 'https://sukisu.org/og-image.png'}],
+        ['meta', {property: 'og:site_name', content: 'YukiSU'}],
+        ['meta', {property: 'og:image', content: 'https://yukisu.anatdx.com/og-image.png'}],
         ['meta', {property: 'og:image:width', content: '1200'}],
         ['meta', {property: 'og:image:height', content: '630'}],
         ['meta', {property: 'og:image:type', content: 'image/png'}],
-        ['meta', {property: 'og:url', content: 'https://sukisu.org/'}],
+        ['meta', {property: 'og:url', content: 'https://yukisu.anatdx.com/'}],
         ['meta', {property: 'og:locale', content: 'en_US'}],
         ['meta', {property: 'og:locale:alternate', content: 'zh_CN'}],
 
         // Twitter optimization for global audience
         ['meta', {property: 'twitter:card', content: 'summary_large_image'}],
-        ['meta', {property: 'twitter:site', content: '@sukisu_ultra'}],
-        ['meta', {property: 'twitter:creator', content: '@sukisu_ultra'}],
-        ['meta', {property: 'twitter:image', content: 'https://sukisu.org/og-image.png'}],
+        ['meta', {property: 'twitter:site', content: '@yukisu'}],
+        ['meta', {property: 'twitter:creator', content: '@yukisu'}],
+        ['meta', {property: 'twitter:image', content: 'https://yukisu.anatdx.com/og-image.png'}],
 
         // Additional SEO optimizations
         ['meta', {
@@ -130,9 +130,9 @@ export default defineConfig({
         // Global SEO optimization
         ['meta', {
             name: 'keywords',
-            content: 'Android root, KernelSU, SukiSU-Ultra, Android kernel, root management, 安卓 root, カーネル, рут'
+            content: 'Android root, KernelSU, YukiSU, Android kernel, root management, 安卓 root, カーネル, рут'
         }],
-        ['meta', {name: 'author', content: 'SukiSU-Ultra Team'}],
+        ['meta', {name: 'author', content: 'YukiSU Team'}],
         ['meta', {
             name: 'robots',
             content: 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'
@@ -143,12 +143,12 @@ export default defineConfig({
         ['script', {type: 'application/ld+json'}, JSON.stringify({
             '@context': 'https://schema.org',
             '@type': 'SoftwareApplication',
-            'name': 'SukiSU-Ultra',
+            'name': 'YukiSU',
             'description': 'Next-Generation Android Root Solution',
             'applicationCategory': 'SystemApplication',
             'operatingSystem': 'Android',
-            'url': 'https://sukisu.org',
-            'downloadUrl': 'https://github.com/sukisu-ultra/sukisu-ultra/releases',
+            'url': 'https://yukisu.anatdx.com',
+            'downloadUrl': 'https://github.com/Anatdx/YukiSU/releases',
             'supportingData': {
                 '@type': 'DataCatalog',
                 'name': 'Compatibility Database'
@@ -166,8 +166,8 @@ export default defineConfig({
             },
             'author': {
                 '@type': 'Organization',
-                'name': 'SukiSU-Ultra Team',
-                'url': 'https://github.com/sukisu-ultra'
+                'name': 'YukiSU Team',
+                'url': 'https://github.com/Anatdx'
             }
         })],
 
@@ -175,7 +175,7 @@ export default defineConfig({
         ['link', {rel: 'manifest', href: '/site.webmanifest'}],
         ['meta', {name: 'apple-mobile-web-app-capable', content: 'yes'}],
         ['meta', {name: 'apple-mobile-web-app-status-bar-style', content: 'black-translucent'}],
-        ['meta', {name: 'apple-mobile-web-app-title', content: 'SukiSU-Ultra'}],
+        ['meta', {name: 'apple-mobile-web-app-title', content: 'YukiSU'}],
 
         // Cloudflare Web Analytics
         ['script', {
@@ -189,7 +189,7 @@ export default defineConfig({
         logo: {src: '/logo.svg', width: 24, height: 24},
 
         socialLinks: [
-            {icon: 'github', link: 'https://github.com/sukisu-ultra/sukisu-ultra'},
+            {icon: 'github', link: 'https://github.com/Anatdx/YukiSU'},
             {
                 icon: {
                     svg: '<svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-brand-telegram"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M15 10l-4 4l6 6l4 -16l-18 7l4 2l2 6l3 -4" /></svg>'
@@ -258,7 +258,7 @@ export default defineConfig({
                     }
                 },
                 editLink: {
-                    pattern: 'https://github.com/sukisu-ultra/sukisu-ultra/edit/main/docs/:path',
+                    pattern: 'https://github.com/Anatdx/YukiSU/edit/main/docs/:path',
                     text: 'Edit this page on GitHub',
                 },
                 docFooter: {
@@ -312,7 +312,7 @@ export default defineConfig({
                     }
                 },
                 editLink: {
-                    pattern: 'https://github.com/sukisu-ultra/sukisu-ultra/edit/main/docs/:path',
+                    pattern: 'https://github.com/Anatdx/YukiSU/edit/main/docs/:path',
                     text: '在 GitHub 上编辑此页面',
                 },
                 docFooter: {
