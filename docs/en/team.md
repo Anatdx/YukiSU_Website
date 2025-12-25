@@ -11,85 +11,13 @@ import { VPTeamPage, VPTeamPageTitle, VPTeamMembers } from 'vitepress/theme'
 
 const coreMembers = [
   {
-    avatar: 'https://github.com/shirkneko.png',
-    name: 'Shirk Neko',
-    title: 'Founder & Lead Developer',
+    avatar: 'https://github.com/Anatdx.png',
+    name: 'Anatdx',
+    title: 'Copyer & Viber',
     desc: 'Creator of YukiSU',
     links: [
-      { icon: 'github', link: 'https://github.com/shirkneko' },
-      { icon: 'telegram', link: 'https://t.me/shirkneko'}
-    ]
-  },
-  {
-    avatar: 'https://github.com/shiinasaku.png',
-    name: 'サクシイナ',
-    title: 'Core Member',
-    links: [
-      { icon: 'github', link: 'https://github.com/shiinasaku' },
-      { icon: 'x', link: 'https://x.com/typeflu'},
-      { icon: 'telegram', link: 'https://t.me/SakuShiina'}
-    ]
-  },
-  {
-    avatar: 'https://github.com/MiRinChan.png',
-    name: 'bbB猫 北凛琪',
-    title: 'Head Designer',
-    links: [
-      { icon: 'github', link: 'https://github.com/mirinchan' },
-      { icon: 'telegram', link: 'https://t.me/bbbneko'}
-    ]
-  },
-  {
-    avatar: 'https://github.com/OukaroMF.png',
-    name: 'OukaroMF',
-    title: 'Junior Designer',
-    links: [
-      { icon: 'github', link: 'https://github.com/oukaromf' },
-      { icon: 'telegram', link: 'https://t.me/mfnotmtf'}
-    ]
-  },
-  {
-    avatar: 'https://github.com/tools-cx-app.png',
-    name: 'Hutao',
-    title: 'Rust Code Maintainer',
-    links: [
-      { icon: 'github', link: 'https://github.com/tools-cx-app' },
-      { icon: 'telegram', link: 'https://t.me/localhost_hutao'}
-    ]
-  },
-  {
-    avatar: 'https://github.com/udochina.png',
-    name: 'Liankong',
-    title: 'KPM Maintainer',
-    links: [
-      { icon: 'github', link: 'https://github.com/udochina' }
-    ]
-  },
-  {
-    avatar: 'https://github.com/xiaomichael.png',
-    name: '小 小w',
-    title: 'Kernel Manager',
-    links: [
-      { icon: 'github', link: 'https://github.com/xiaomichael' },
-      { icon: 'telegram', link: 'https://t.me/xiaoxiao1221w'}
-    ]
-  },
-  {
-    avatar: 'https://github.com/HSSkyBoy.png',
-    name: 'NkBe',
-    title: 'Maintainer',
-    links: [
-      { icon: 'github', link: 'https://github.com/HSSkyBoy' },
-      { icon: 'telegram', link: 'https://t.me/HSSkyBoy'}
-    ]
-  },
-  {
-    avatar: 'https://github.com/luyanci.png',
-    name: 'Luyanci',
-    title: 'Bot Maintainer',
-    links: [
-      { icon: 'github', link: 'https://github.com/luyanci' },
-      { icon: 'telegram', link: 'https://t.me/luyancib'}
+      { icon: 'github', link: 'https://github.com/Anatdx' },
+      { icon: 'telegram', link: 'https://t.me/Anatdx'}
     ]
   },
   
