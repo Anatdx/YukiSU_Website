@@ -1,2 +1,3 @@
 ### Documentation for yukisu
-请输入文本
+
+cloudflare是傻逼
