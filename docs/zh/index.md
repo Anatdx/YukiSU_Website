@@ -97,7 +97,7 @@ const footer = {
     {
       title: '社区',
       items: [
-        { label: 'Telegram 频道', href: 'https://t.me/yukisu_chat' },
+        { label: 'Telegram 群组', href: 'https://t.me/yukisu_chat' },
         { label: 'GitHub 讨论区', href: 'https://github.com/Anatdx/YukiSU/discussions' },
         { label: '参与贡献', href: 'https://github.com/Anatdx/YukiSU/blob/main/CONTRIBUTING.md' },
         { label: '许可协议', href: 'https://github.com/Anatdx/YukiSU/blob/main/LICENSE' }
