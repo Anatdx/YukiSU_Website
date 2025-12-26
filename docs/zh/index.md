@@ -97,14 +97,14 @@ const footer = {
     {
       title: '社区',
       items: [
-        { label: 'Telegram 频道', href: 'https://t.me/hymo_chat' },
+        { label: 'Telegram 频道', href: 'https://t.me/yukisu_chat' },
         { label: 'GitHub 讨论区', href: 'https://github.com/Anatdx/YukiSU/discussions' },
         { label: '参与贡献', href: 'https://github.com/Anatdx/YukiSU/blob/main/CONTRIBUTING.md' },
         { label: '许可协议', href: 'https://github.com/Anatdx/YukiSU/blob/main/LICENSE' }
       ]
     }
   ],
-  copyright: '© 2025 Saksham. 保留所有权利。',
+  copyright: '© 2025 Anatdx. 保留所有权利。',
   build: '使用 VitePress 构建'
 }
 </script>

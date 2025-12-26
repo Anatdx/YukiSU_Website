@@ -14,7 +14,7 @@ If you need to submit a translation for the manager, please visit our Crowdin pr
 
 > Connect with other users, get support, and stay updated
 
-**Main Group:** [Tg Group](https://t.me/hymo_chat)
+**Main Group:** [Tg Group](https://t.me/yukisu_chat)
 
 ### Test Builds
 
@@ -22,7 +22,7 @@ If you need to submit a translation for the manager, please visit our Crowdin pr
 Test builds are experimental and may be unstable
 :::
 
-**Test Builds Channel:** [Latest Test Build](https://t.me/hymo_chat/832)
+**Test Builds Channel:** [Latest Test Build](https://t.me/yukisu_chat/832)
 
 ## Downloads & Releases
 
@@ -43,7 +43,7 @@ Test builds are experimental and may be unstable
 | Resource | Link | Description |
 |----------|:----:|------------:|
 | **Translations** | [Crowdin](https://crowdin.com/project/YukiSU) | Submit translations |
-| **Telegram Group** | [t.me/hymo_chat](https://t.me/hymo_chat) | Community support |
-| **Test Builds** | [Test Channel](https://t.me/hymo_chat/832) | Experimental builds |
+| **Telegram Group** | [t.me/hymo_chat](https://t.me/yukisu_chat) | Community support |
+| **Test Builds** | [Test Channel](https://t.me/yukisu_chat/832) | Experimental builds |
 | **Releases** | [GitHub Releases](https://github.com/Anatdx/YukiSU/releases) | Stable downloads |
 | **Issues** | [GitHub Issues](https://github.com/Anatdx/YukiSU/issues) | Bug reports |

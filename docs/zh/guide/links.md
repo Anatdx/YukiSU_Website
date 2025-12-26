@@ -14,7 +14,7 @@
 
 > 与其他用户联系，获取支持并保持更新
 
-**主群组：** [Tg Group](https://t.me/hymo_chat)
+**主群组：** [Tg Group](https://t.me/yukisu_chat)
 
 ### 测试构建
 
@@ -22,7 +22,7 @@
 测试构建是实验性的，可能不稳定
 :::
 
-**测试构建频道：** [最新测试构建](https://t.me/hymo_chat/832)
+**测试构建频道：** [最新测试构建](https://t.me/yukisu_chat/832)
 
 ## 下载与发布
 
@@ -43,7 +43,7 @@
 | 资源              |                                  链接                                  |     描述 |
 |-----------------|:--------------------------------------------------------------------:|-------:|
 | **翻译**          |         [Crowdin](https://crowdin.com/project/YukiSU)          |   提交翻译 |
-| **Telegram 群组** |                 [t.me/sukiksu](https://t.me/hymo_chat)                 |   社区支持 |
-| **测试构建**        |                  [测试频道](https://t.me/hymo_chat/832)                   |  实验性构建 |
+| **Telegram 群组** |                 [t.me/sukiksu](https://t.me/yukisu_chat)                 |   社区支持 |
+| **测试构建**        |                  [测试频道](https://t.me/yukisu_chat/832)                   |  实验性构建 |
 | **发布**          |  [GitHub 发布](https://github.com/Anatdx/YukiSU/releases)  |   稳定下载 |
 | **问题**          |   [GitHub 问题](https://github.com/Anatdx/YukiSU/issues)   |   错误报告 |

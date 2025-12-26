@@ -1,7 +1,7 @@
 {
   "name": "yukisu-docs",
-  "author": "Saksham <saksham.mac@icloud.com>",
-  "version": "1.2.0",
+  "author": "Anatdx <an@anatdx.com>",
+  "version": "1.0.0",
   "description": "YukiSU Documentation - Next-Generation Android Root Solution",
   "type": "module",
   "scripts": {
@@ -19,11 +19,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/yukisu/website.git"
+    "url": "https://github.com/Anatdx/YukiSU_Website.git"
   },
-  "homepage": "https://yukisu.org",
+  "homepage": "https://yukisu.anatdx.com",
   "bugs": {
-    "url": "https://github.com/yukisu/website/issues"
+    "url": "https://github.com/Anatdx/YukiSU_Website/issues"
   },
   "devDependencies": {
     "@types/node": "^25.0.2",

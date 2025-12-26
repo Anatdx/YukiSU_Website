@@ -11,7 +11,7 @@ aside: false
 const hero = {
   badge: 'The ultimate Android root solution, so good even my fork is embarrassed',
   title: 'YukiSU',
-  subtitle: 'Powerful kernel-level root access, security compromised',
+  subtitle: 'Powerful? kernel-level root access, security compromised',
   description: 'Experience the next generation of Android root management.',
   logo: '/logo.svg',
   primary: { label: 'Get Started', href: '/guide/installation' },
@@ -97,14 +97,14 @@ const footer = {
     {
       title: 'Community',
       items: [
-        { label: 'Telegram Channel', href: 'https://t.me/hymo_chat' },
+        { label: 'Telegram Channel', href: 'https://t.me/yukisu_chat' },
         { label: 'Discussions', href: 'https://github.com/Anatdx/YukiSU/discussions' },
         { label: 'Contributing', href: 'https://github.com/Anatdx/YukiSU/blob/main/CONTRIBUTING.md' },
         { label: 'License', href: 'https://github.com/Anatdx/YukiSU/blob/main/LICENSE' }
       ]
     }
   ],
-  copyright: '© 2025 Saksham. All rights reserved.',
+  copyright: '© 2025 Anatdx. All rights reserved.',
   build: 'Built with ♥ using VitePress'
 }
 </script>
